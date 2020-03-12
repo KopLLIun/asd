@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ClientInformation>
+<CashCard>
+    <id>123</id>
+    <password>1243</password>
+    <balance>2200</balance>
+</CashCard>
+<CashCard>
+    <id>122</id>
+    <password>1343</password>
+    <balance>1800</balance>
+</CashCard>
+
+<CashCard>
+    <id>132</id>
+    <password>2243</password>
+    <balance>1500</balance>
+</CashCard>
+
+<CashCard>
+    <id>12</id>
+    <password>3243</password>
+    <balance>2700</balance>
+</CashCard>
+</ClientInformation>
